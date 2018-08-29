@@ -1,0 +1,10 @@
+
+.img{
+    width: 25px;
+    height: 25px;     
+}
+.encabezado{
+    text-align: center;
+    color: blue;
+    background: rgb(233, 206, 172);
+}
